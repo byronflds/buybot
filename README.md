@@ -1,0 +1,2 @@
+# buybot
+Simple purchase bot
